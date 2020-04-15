@@ -13,4 +13,9 @@
 13
 14
 hej
+<<<<<<< HEAD
 ludentå
+=======
+då
+c ya, wouldnt wanna be ya
+>>>>>>> branchigaste/branchen
